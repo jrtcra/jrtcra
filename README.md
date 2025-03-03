@@ -2,8 +2,8 @@
 
 I am a Computer Science student at the University of Illinois Urbana-Champaign, expecting to graduate in May 2026. My experience is mostly related to full-stack web development, but I am always open to learning anything new in tech.
 
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff&link=https://www.linkedin.com/in/jarrettcura/)](&link=https://www.linkedin.com/in/jarrettcura/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&link=mailto:jarrettcura@gmail.com)](&link=mailto:kanna6501@gmail.com)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff&link=https://www.linkedin.com/in/jarrettcura/)](https://www.linkedin.com/in/jarrettcura/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&link=mailto:jarrettcura@gmail.com)](mailto:jarrettcura@gmail.com)
 
 ## Tech Stack
 
