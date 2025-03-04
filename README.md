@@ -1,4 +1,4 @@
-# Hello, I am Jarrett
+# Hello, I'm Jarrett.
 
 I am a Computer Science student at the University of Illinois Urbana-Champaign, expecting to graduate in May 2026. My experience is mostly related to full-stack web development, but I am always open to learning anything new in tech.
 
