@@ -1,6 +1,7 @@
 # jarrett cura
 
 full-stack software engineer
+
 computer science @ university of illinois urbana champaign
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jarrettcura/)](https://www.linkedin.com/in/jarrettcura/)
